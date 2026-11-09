@@ -21,7 +21,7 @@ This is a game. It includes content such as addiction, cancer, and other disease
 
 You will usually be given a short amount of text involving a decision to be made followed by several options. The "Back" link in the lower left will return you to your previous decision. The "TOC" link in the lower right will return you to the table of contents.
 
-- [Proceed.](#toc) 
+- [Proceed.](#0)
 
 ## toc
 
