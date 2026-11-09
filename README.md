@@ -32,3 +32,24 @@ A passage.
 Another passage.
 
 ## right
+
+The road ends here.
+`;
+```
+
+- `# Title` sets the page title.
+- `## passage-id` starts a passage.
+- `- [Choice text](#passage-id)` adds a choice.
+- A blank line separates paragraphs.
+- Text and choices can be interspersed; each choice appears where it is written.
+- A passage with no choices is terminal.
+- The first passage is the start.
+- Text supports `*italic*` and `**bold**`.
+
+## Using the app
+
+- Choose by clicking a choice.
+- Go back with the Back button.
+- Restart with the Restart button.
+- The page follows the system light/dark theme.
+- If a choice points at a missing passage, the app shows a message in its place.
