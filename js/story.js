@@ -160,7 +160,7 @@ Jessica takes another pull off the vape. "Alright. Here's $20. Get something to 
 
 ## 7
 
-She aggressively shoves you another $20. "Here. Just get out. I can't babysit you and take care of Damien at the same time."
+She aggressively shoves you another $20. "Here. Just get out. You're going to wake up Damien."
 
 - [You take the money and leave.](#8c)
 
