@@ -43,9 +43,9 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .choice::after { content: "→"; margin-left: auto; color: var(--muted); opacity: 0.45; transform: translateX(-4px); transition: opacity 180ms ease, transform 180ms ease, color 180ms ease; }
 .choice:hover { border-color: var(--accent); box-shadow: 0 6px 20px var(--accent-soft); transform: translateX(4px); }
 .choice:hover::after { color: var(--accent); opacity: 1; transform: translateX(0); }
-#back, #restart { padding: 0.35rem 0.65rem; color: var(--muted); background: none; border: 0; border-radius: 8px; transition: color 180ms ease, background-color 180ms ease; }
-#back:hover:not(:disabled), #restart:hover { color: var(--ink); background: var(--accent-soft); }
-#restart { margin-left: auto; }
+#back, #toc { padding: 0.35rem 0.65rem; color: var(--muted); background: none; border: 0; border-radius: 8px; transition: color 180ms ease, background-color 180ms ease; }
+#back:hover:not(:disabled), #toc:hover { color: var(--ink); background: var(--accent-soft); }
+#toc { margin-left: auto; }
 button:disabled { opacity: 0.35; cursor: default; }
 :focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 @media (max-width: 600px) { main { padding-top: 2rem; } .choice { padding: 0.85rem 1rem; } }
