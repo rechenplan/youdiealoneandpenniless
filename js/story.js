@@ -5,7 +5,7 @@ window.STORY = `
 
 **You die alone and penniless.**
 
-a comedy by Bob Forder
+by Bob Forder
 
 - [Proceed.](#ded)
 
