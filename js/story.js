@@ -95,7 +95,9 @@ Jessica hangs up.
 
 ## 3
 
-You drive over to Jessica's apartment and park in the alley. You're a little buzzed, but not so bad anyone is noticing. You take the fire escape up the back and tap on the glass. No one responds. You tap harder. She hurries into the bedroom and yanks the window open in frustration.
+You drive over to Jessica's apartment and park in the alley. You're a little buzzed, but not so bad anyone is noticing.
+
+You take the fire escape up the back and tap on the glass. No one responds. You tap harder. She hurries into the bedroom and yanks the window open in frustration.
 
 "What the fuck?!", she whispers, "Don't tap on the fucking glass! Damien is sleeping!"
 
