@@ -100,6 +100,8 @@ You drive over to Jessica's apartment and park in the alley. You're a little fuc
 
 "What the fuck?!", she whispers, "Don't tap on the fucking glass! Damien is sleeping!"
 
+You climb inside.
+
 - [Who's Damien?](#4-) 
 - [How's he feeling?](#4+)
 
