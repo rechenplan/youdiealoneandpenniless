@@ -17,9 +17,9 @@ by Bob Forder
 
 ## instr
 
-This is a piece of non-linear fiction. It includes content such as addiction, cancer, and other diseases, suicidal ideation and death. You will be given a short amount of text involving a decision to be made. You will be presented with several options. The "Back" link in the lower left will return you to your previous decision. The "Restart" link in the lower right will return you to the title page.
+This is a piece of non-linear fiction. It includes content such as addiction, cancer, and other diseases, suicidal ideation and death. You will be given a short amount of text involving a decision to be made. You will be presented with several options. The "Back" link in the lower left will return you to your previous decision. The "TOC" link in the lower right will return you to the table of contents.
 
-- [Proceed.](#toc) 
+- [Proceed.](#0) 
 
 ## toc
 
@@ -40,9 +40,9 @@ This is a piece of non-linear fiction. It includes content such as addiction, ca
 
 ## prelude
 
-**Prelude**
+**A conversation with your sister**
 
-You are alone in your apartment.
+You are alone in your apartment. Your sister calls.
 
 - [Proceed.](#0)
 - [Return to the table of contents.](#toc)

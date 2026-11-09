@@ -22,7 +22,7 @@
 
   const story = parse(window.STORY);
   const $ = (id) => document.getElementById(id);
-  const prose = $('prose'), back = $('back'), restart = $('restart');
+  const prose = $('prose'), back = $('back'), toc = $('toc');
   let node = story.start, history = [];
 
   const inline = (s) => String(s ?? '')
@@ -58,7 +58,7 @@
     if (block?.type === 'choice') go(block.to);
   });
   back.addEventListener('click', undo);
-  restart.addEventListener('click', () => { history = []; node = story.start; show(); });
+  toc.addEventListener('click', () => { if (node !== 'toc') go('toc'); });
   $('title').textContent = story.title;
   show();
 })();
