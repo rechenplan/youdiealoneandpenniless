@@ -17,7 +17,9 @@ by Bob Forder
 
 ## instr
 
-This is a piece of non-linear fiction. It includes content such as addiction, cancer, and other diseases, suicidal ideation and death. You will be given a short amount of text involving a decision to be made. You will be presented with several options. The "Back" link in the lower left will return you to your previous decision. The "TOC" link in the lower right will return you to the table of contents.
+This is a game. It includes content such as addiction, cancer, and other diseases, suicidal ideation and death. You will usually die alone and penniless.
+
+You will usually be given a short amount of text involving a decision to be made followed by several options. The "Back" link in the lower left will return you to your previous decision. The "TOC" link in the lower right will return you to the table of contents.
 
 - [Proceed.](#0) 
 
@@ -36,7 +38,8 @@ This is a piece of non-linear fiction. It includes content such as addiction, ca
 - [A conversation with your sister](#prelude)
 - [You show up fucked up](#popfucked)
 - [You skip it](#party)
-- [You show up clean](#popclean)
+- [You show up sober](#popclean)
+- [The end](#win)
 
 ## prelude
 
@@ -73,8 +76,6 @@ You get your wish. Your sister never calls you again.
 	
 **You die alone and penniless.**
 
-- [Return to the table of contents.](#toc)
-
 ## 2+
 
 You hear her blow her nose.
@@ -92,11 +93,9 @@ Jessica hangs up.
 
 **You die alone and penniless.**
 
-- [Return to the table of contents.](#toc)
-
 ## 3
 
-You drive over to Jessica's apartment and park in the alley. You're a little fucked up, but not so bad anyone is noticing. You take the fire escape up the back and tap on the glass. No one responds. You tap harder. She hurries into the bedroom and yanks the window open in frustration.
+You drive over to Jessica's apartment and park in the alley. You're a little buzzed, but not so bad anyone is noticing. You take the fire escape up the back and tap on the glass. No one responds. You tap harder. She hurries into the bedroom and yanks the window open in frustration.
 
 "What the fuck?!", she whispers, "Don't tap on the fucking glass! Damien is sleeping!"
 
@@ -132,8 +131,6 @@ Jessica is visibly holding back sobs. "I gave you money to keep it on!", she sho
 
 **You die alone and penniless.**
 
-- [Return to the table of contents.](#toc)
-
 ## 5
 
 Jessica takes a long pull off a vape. "Well, Pop's biopsy came back positive. He got more tests done yesterday." She pauses briefly. "He's got about six months."
@@ -165,7 +162,7 @@ Jessica takes another pull off the vape. "Alright. Here's $20. Get something to 
 
 She aggressively shoves you another $20. "Here. Just get out. I can't babysit you and take care of Damien at the same time."
 
-- [Take the money and leave.](#8c)
+- [You take the money and leave.](#8c)
 
 ## popfucked
 **You show up fucked up**
@@ -184,12 +181,23 @@ You just found out your grandfather is dying. Whatever. Aren't we all dying?
 - [Return to the table of contents.](#toc)
 
 ## popclean
-**You show up clean**
+**You show up sober**
 
 You just found out your grandfather is dying. You're going to be with family tonight. You never show up for family gatherings sober. Why not start now?
 
 - [Proceed](#8a)
 - [Return to the table of contents.](#toc)
 
+## win
+**The end**
+
+You made every decision to the best of your ability.
+
+- [Proceed](#egg)
+- [Return to the table of contents.](#toc)
+
+## egg
+
+ **You die completely and utterly penniless, but not alone.**
 
 `;
