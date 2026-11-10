@@ -8,7 +8,7 @@ This is a piece of non-linear fiction. It includes content such as addiction, ca
 | --- | --- |
 | `index.html` | Page shell |
 | `css/styles.css` | Theme and layout |
-| `js/story.js` | **Your story — edit this** |
+| `js/story.js` | Story text |
 | `js/app.js` | Engine and UI |
 | `fonts/` | Latin Modern Roman (bundled, GUST Font License) |
 
