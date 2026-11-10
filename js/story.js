@@ -7,6 +7,8 @@ window.STORY = `
 
 by Bob Forder
 
+Nov. 2026
+
 - [Proceed.](#ded)
 
 ## ded
@@ -17,9 +19,9 @@ by Bob Forder
 
 ## instr
 
-This is a game. It includes content such as addiction, cancer, and other diseases, suicidal ideation and death. You will usually die alone and penniless.
+This is a game. It covers topics such as addiction and other diseases, suicidal ideation, and death. You will usually die alone and penniless.
 
-You will usually be given a short amount of text involving a decision to be made followed by several options. The "Back" link in the lower left will return you to your previous decision. The "TOC" link in the lower right will return you to the table of contents.
+Most of the time, you will be given a short amount of text followed by several potential responses. The "Back" link in the lower left will return you to the previous decision point. The "TOC" link in the lower right will take you to the table of contents.
 
 - [Proceed.](#0)
 
@@ -35,11 +37,11 @@ You will usually be given a short amount of text involving a decision to be made
 
 *Story*
 
-- [Prelude, or a conversation with your sister](#jessica)
-- [You show up fucked up](#popfucked)
-- [You skip it](#party)
-- [You show up sober](#popclean)
-- [The end](#win)
+- [1. Prelude, or a conversation with your sister](#jessica)
+- [2a. You show up fucked up](#popfucked)
+- [2b. You skip it](#party)
+- [2c. You show up sober](#popclean)
+- [9. The end](#win)
 
 ## jessica
 
@@ -55,7 +57,7 @@ You are alone in your apartment. Your sister calls.
 The phone rings. It's your sister. She's the last member of your family that still bothers calling you. The rest have given up because you never answer.
 
 - [Ignore.](#1-)
-- [Jesus, if it'll get her to stop calling me.](#1)
+- [Jesus! I'll answer, if it'll get her to stop calling me.](#1)
 
 ## 1
 
@@ -82,8 +84,7 @@ You hear her blow her nose.
 
 **JESSICA** Pop has cancer.
 
-- [*I hope I don't have to take off work for this.*](#3)
-- [I'll be there in a minute.](#3)
+- [I'll be right there.](#3)
 
 ## 2-
 
@@ -99,9 +100,9 @@ You drive over to Jessica's apartment and park in the alley. You're a little buz
 
 You take the fire escape up the back and tap on the glass. No one responds. You tap harder. She hurries into the bedroom and yanks the window open in frustration.
 
-"What the fuck?!", she whispers, "Don't tap on the fucking glass! Damien is sleeping!"
+"What the fuck?!", she strains, "Don't tap on the fucking glass! Damien is sleeping!"
 
-You climb inside.
+You go inside.
 
 - [Who's Damien?](#4-) 
 - [How's he feeling?](#4+)
@@ -122,7 +123,11 @@ Jessica smiles weakly, "Not right now, but thanks." She looks down at the carpet
 
 ## 4-
 
-Jessica shoots you a glare. "Your nephew, dipshit. You know I don't date guys with the same names as family members." Eww. Why is she so fucking weird? "You got my message last week when I told you he was going in for the biopsy, right?"
+Jessica shoots you a glare. "Your nephew, Damien? Dipshit. You know I don't date guys with the same names as family members."
+
+Eww. Why is she so fucking weird?
+
+"You got my message last week when I told you Pop was going in for the biopsy, right?"
 
 - [I'm sorry. It's been hard finding the words.](#5)
 - [(Lie) No, my phone was cut off last week.](#4--)
@@ -141,7 +146,9 @@ Jessica takes a long pull off a vape. "Well, Pop's biopsy came back positive. He
 
 ## 6
 
-Jessica starts nervously gathering clutter. She's always done this when she feels overwhelmed. Reminds you of Mom. She places the trinkets she gathered back on the table. She looks at you. "Everybody's getting together tonight. I'm going. Dad wants you to come."
+Jessica starts nervously gathering clutter. She's always done this when she feels overwhelmed. Reminds you of Mom. She places the trinkets she gathered back on the table. She stares down at them.
+
+"Everybody's getting together tonight. I'm going. Dad wants you to come."
 
 - [I'll be there.](#6pop)
 - [(Lie) I'll have to see if I can take off work.](#6work)
@@ -193,13 +200,13 @@ You just found out your grandfather is dying. You're going to be with family ton
 ## win
 **The end**
 
-You made every decision to the best of your ability.
+You chose to the best of your ability.
 
 - [Proceed](#egg)
 - [Return to the table of contents.](#toc)
 
 ## egg
 
- **You die completely and utterly penniless, but not alone.**
+ **You die in the presence of friends and loved ones. Penniless.**
 
 `;
