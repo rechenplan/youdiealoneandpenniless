@@ -19,9 +19,9 @@ Nov. 2026
 
 ## instr
 
-This is a game. It covers topics such as addiction and other diseases, suicidal ideation, and death. You will usually die alone and penniless.
+This is a game. It covers topics such as drug use, addiction and other diseases, suicidal ideation, and death. You will usually die alone and penniless.
 
-Most of the time, you will be given a short amount of text followed by several potential responses. The "Back" link in the lower left will return you to the previous decision point. The "TOC" link in the lower right will take you to the table of contents.
+Most of the time, you will be given a short amount of text followed by several potential responses. Select a response to choose it. The "Back" link in the lower left will return you to your previous choice. The "TOC" link in the lower right will take you to the table of contents.
 
 - [Proceed.](#0)
 
@@ -38,9 +38,9 @@ Most of the time, you will be given a short amount of text followed by several p
 *Story*
 
 - [1. Prelude, or a conversation with your sister](#jessica)
-- [2a. You show up fucked up](#popfucked)
-- [2b. You skip it](#party)
-- [2c. You show up sober](#popclean)
+- [2. You show up](#party)
+- [3. You need help](#help)
+
 - [9. The end](#win)
 
 ## jessica
@@ -157,45 +157,142 @@ Jessica starts nervously gathering clutter. She's always done this when she feel
 
 Jessica smiles and a tear runs down her cheek. "Okay, I'll let everyone know you're coming. Don't show up all fucked up like last time."
 
-- [(Lie) I won't.](#8b)
-- [I won't.](#8a)
+- [(Lie) I won't.](#8-2)
+- [I won't.](#8-2)
 
 ## 6work
 
 Jessica takes another pull off the vape. "Alright. Here's $20. Get something to eat. You look like shit." She sniffles.
 
-- [Thanks.](#8c)
+- [Thanks.](#8-2a)
 - [You don't have another $20, do you?](#7)
 
 ## 7
 
 She aggressively shoves you another $20. "Here. Just get out. You're going to wake up Damien."
 
-- [You take the money and leave.](#8c)
+- [You take the money and leave.](#8-2a)
 
-## popfucked
-**You show up fucked up**
+## party
+**You show up**
 
 You just found out your grandfather is dying. You're going to be with family tonight. There is no way you're going to be able to handle Dad without being at least a little bit fucked up.
 
-- [Proceed](#8b)
+- [Proceed](#8-2)
 - [Return to the table of contents.](#toc)
 
-## party
-**You skip it**
+## 8-2
 
-You just found out your grandfather is dying. Whatever. Aren't we all dying?
+That was a little heavy.
 
-- [Proceed](#8c)
+We gotta get your head right before you can even think about talking to Dad. You decide to grab a drink at the bar where you work on your way home. You've got plenty of time to sober up.
+
+Your friend is behind the bar. Good. That guy is pretty cool. He never cuts you off.
+
+He shouts, "Yo!"
+
+- [Can I get a margarita?](#drink)
+- [Can I get an old fashioned?](#drink)
+
+## drink
+
+He laughs. "Yeah, no problem. What's going on?" He effortlessly begins making your drink without skipping a beat.
+
+- [(Lie) Same old shit.](#shit)
+- [I just found out my grandfather is dying.](#dying)
+
+## shit
+
+"Yeah, same shit different day", he says. He gently places your drink in front of you, complete with garnish.
+
+You take a generous sip. "I saw this doctor the other day."
+
+- [Another third of your drink is gone.](#shit1)
+
+## shit1
+
+"Oh yeah?", he says while handling the register.
+
+"Yeah. He's got me taking some new pill.", you say. 
+
+- [Another third of your drink is gone.](#shit2)
+
+## shit2
+
+"Can you drink on it?", he asks.
+
+"Maybe? There are like twenty things I'm not supposed to do on it.", you say.
+
+"How's business here tonight?", you ask. 
+
+- [Another third of your drink is gone.](#shit3)
+
+## shit3
+
+"Eh.", he says. "You know." He checks your glass, "In the mood for one more?"
+
+You knock back the dregs of your drink.
+
+- [*(Minimize)* Order another.](#shit)
+- [Die.](#die)
+
+## die
+
+"Alright, alright. That's enough.", he says, visibly frustrated.
+
+"You're gonna get fired if you keep coming in here and getting wasted. Here, have this burger. It was a fuck up."
+
+He lowers a plate with a big greasy burger on it, onto the bar in front of you.
+
+- [Thanks anyway, asshole.](#asshole)
+
+## asshole
+
+You stumble out of the bar and onto the sidewalk. You realize in your glorious departure you forgot to piss.
+
+You duck down the alley to do so. Unfortunately, you lose consciousness behind a dumpster.
+
+**You die alone and penniless.**
+
+## dying
+
+He stops what he's doing to pay attention for the first time.
+
+"Are you okay?", he asks, your drink in hand. 
+
+- [(Minimize) Yeah, I'm alright.](#shit)
+- [Not really.](#dying2)
+
+## dying2
+
+He sees something in your face that scares him a little bit.
+
+"What's that?", he asks quizically.
+
+- [(Minimize) The world's smallest violin.](#shit)
+- [I think I need to go to the hospital.](#hospital)
+
+## hospital
+
+Concern turns to panic. "What's wrong?", his eyes lock with yours like a deer in headlights.
+
+You lose consciousness at the bar. Your drink is full.
+
+- [(Lie) I can do this.](#9)
+- [I give up.](#9)
+
+## help
+
+**You need help**
+
+You just lost consciousness at the bar. Your drink was full.
+
+- [Proceed](#9)
 - [Return to the table of contents.](#toc)
 
-## popclean
-**You show up sober**
+## 9
 
-You just found out your grandfather is dying. You're going to be with family tonight. You never show up for family gatherings sober. Why not start now?
-
-- [Proceed](#8a)
-- [Return to the table of contents.](#toc)
+**Unfinished business.**
 
 ## win
 **The end**
