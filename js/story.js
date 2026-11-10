@@ -233,7 +233,7 @@ You take a generous sip. "I saw this doctor the other day."
 
 You knock back the dregs of your drink.
 
-- [*(Minimize)* Order another.](#shit)
+- [(Minimize) Order another.](#shit)
 - [Die.](#die)
 
 ## die
