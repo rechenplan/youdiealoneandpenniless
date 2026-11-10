@@ -164,14 +164,14 @@ Jessica smiles and a tear runs down her cheek. "Okay, I'll let everyone know you
 
 Jessica takes another pull off the vape. "Alright. Here's $20. Get something to eat. You look like shit." She sniffles.
 
-- [Thanks.](#8-2a)
+- [Thanks.](#8-2)
 - [You don't have another $20, do you?](#7)
 
 ## 7
 
 She aggressively shoves you another $20. "Here. Just get out. You're going to wake up Damien."
 
-- [You take the money and leave.](#8-2a)
+- [You take the money and leave.](#8-2)
 
 ## party
 **You stop by the bar**
