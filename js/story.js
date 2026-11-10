@@ -38,8 +38,8 @@ Most of the time, you will be given a short amount of text followed by several p
 *Story*
 
 - [1. Prelude, or a conversation with your sister](#jessica)
-- [2. You show up](#party)
-- [3. You need help](#help)
+- [2. You stop by the bar](#party)
+- [3. You stop by the hospital](#help)
 
 - [9. The end](#win)
 
@@ -174,7 +174,7 @@ She aggressively shoves you another $20. "Here. Just get out. You're going to wa
 - [You take the money and leave.](#8-2a)
 
 ## party
-**You show up**
+**You stop by the bar**
 
 You just found out your grandfather is dying. You're going to be with family tonight. There is no way you're going to be able to handle Dad without being at least a little bit fucked up.
 
@@ -274,7 +274,9 @@ He sees something in your face that scares him a little bit.
 
 ## hospital
 
-Concern turns to panic. "What's wrong?", his eyes lock with yours like a deer in headlights.
+Concern turns to panic. You vaguely sense attention directing toward you.
+
+"What's wrong?", his eyes lock with yours like a deer in headlights.
 
 You lose consciousness at the bar. Your drink is full.
 
